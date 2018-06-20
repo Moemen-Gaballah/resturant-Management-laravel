@@ -1,0 +1,23 @@
+.menuThumb{
+    width: 150px;
+}
+
+textarea{
+    height: 160px !important;
+}
+
+.editMenuImg {
+    bottom: 1px solid gray;
+}
+.menuItems {
+    max-height: 120px;
+    overflow: auto;
+}
+
+.discount {
+    width: 60px;
+}
+
+/*.btn-primary {*/
+    /*width: 100%;*/
+/*}*/
